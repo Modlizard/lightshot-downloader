@@ -32,3 +32,5 @@ rawr4[a-z, 0-9] 12/05/2020 02:12:44
 The above ID set ran successfully.
 va456[a-z, 0-9] 06/11/2020 21:48:23
 The above ID set ran successfully.
+---IMAGES FOLDER CLEARED---
+---Added single image into directory as dummy for program.
